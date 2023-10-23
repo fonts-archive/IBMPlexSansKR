@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'IBM Plex Sans KR';
@@ -12,7 +12,7 @@ font-family: 'IBM Plex Sans KR';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/IBMPlexSansKR/IBMPlexSansKR.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/IBMPlexSansKR/IBMPlexSansKR.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -101,4 +101,23 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/IBMPlexSansKR/IBMPlexSansKR-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/IBMPlexSansKR/IBMPlexSansKR-Bold.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+Copyright © 2017 IBM Corp. with Reserved Font Name "Plex"  
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1. 
+This license is copied below, and is also available with a FAQ at: 
+http://scripts.sil.org/OFL  
+
+----------------------------------------------------------- 
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007 
+-----------------------------------------------------------  
+
+라이선스 전문 보기(영어)
+라이선스 전문 보기(한글)
 ```
